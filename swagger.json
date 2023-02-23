@@ -60,7 +60,7 @@
           "type": "string",
           "format": "uuid"
         },
-        "video-uuid": {
+        "video_uuid": {
           "type": "string",
           "format": "uuid"
         },
@@ -84,7 +84,7 @@
           "type": "string",
           "format": "uuid"
         },
-        "video-uuid": {
+        "video_uuid": {
           "type": "string",
           "format": "uuid"
         },
